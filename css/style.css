@@ -3,5 +3,14 @@ img {
   height: auto;
 }
 h1 {
-    color: blueviolet;
+    color: #fffffe;
+}
+h2 {
+    color: #7f5af0;
+}
+body {
+    background-color: #16161a;
+}
+body {
+    color: #94a1b2;
 }

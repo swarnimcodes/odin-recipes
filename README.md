@@ -1,4 +1,4 @@
 # odin-recipes
-Basic project for the odin project
+Basic recipe website for 'The Odin Project'
 
 Live Preview: https://swarnimcodes.github.io/odin-recipes
