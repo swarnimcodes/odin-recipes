@@ -1,16 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300;600;700&display=swap');
 img {
   max-width: 25%;
   height: auto;
 }
+
+h1, h2, body {
+    font-family: 'Arima', cursive;
+}
+
 h1 {
     color: #fffffe;
+    font-weight: 700;
 }
 h2 {
     color: #7f5af0;
+    color: Chartreuse;
+    font-weight: 600;
 }
 body {
     background-color: #16161a;
-}
-body {
     color: #94a1b2;
+    font-weight: 300;
+    font-size: 22px;
+
 }
