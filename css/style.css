@@ -1,33 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300;600;700&display=swap");
 img {
-  max-width: 25%;
+  max-width: 100%;
   height: auto;
+  width: 75%;
+  display: block;
+  margin: auto auto;
 }
 
-h1, h2, body {
-    font-family: 'Arima', cursive;
+h1,
+h2,
+body {
+  font-family: "Arima", cursive;
+  margin-left: auto;
+  margin-right: auto;
 }
 
+body {
+  font-weight: 300;
+  font-size: 22px;
+  background-color: #1a1a1a;
+  color: #dbdbdb;
+}
 h1 {
-    color: #fffffe;
-    color: #7f5af0;
-    font-weight: 700;
+  color: #42b883;
+  font-weight: 700;
+  text-align: center;
 }
 h2 {
-    color: #7f5af0;
-    color: Chartreuse;
-    font-weight: 600;
-}
-body {
-    background-color: #16161a;
-    color: #94a1b2;
-    font-weight: 300;
-    font-size: 22px;
+  color: #50a2ff;
+  font-weight: 600;
 }
 
 a:hover {
-    color: beige;
+  color: #8dc0fa;
 }
 a {
-    color: goldenrod;
+  color: #eeeeee;
+}
+.containerr {
+  padding: 0 1em;
+  max-width: 60rem;
+  margin-left: auto;
+  margin-right: auto;
 }
