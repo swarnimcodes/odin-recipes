@@ -10,6 +10,7 @@ h1, h2, body {
 
 h1 {
     color: #fffffe;
+    color: #7f5af0;
     font-weight: 700;
 }
 h2 {
@@ -22,5 +23,11 @@ body {
     color: #94a1b2;
     font-weight: 300;
     font-size: 22px;
+}
 
+a:hover {
+    color: beige;
+}
+a {
+    color: goldenrod;
 }
