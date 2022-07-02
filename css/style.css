@@ -22,10 +22,16 @@ body {
   color: #dbdbdb;
 }
 h1 {
-  color: #42b883;
+  /* color: #42b883; */
   font-weight: 700;
   text-align: center;
   font-size: 4rem;
+  background: -webkit-linear-gradient(90deg, #50a2ff 40%, #42b883);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
 }
 h2 {
   color: #50a2ff;
